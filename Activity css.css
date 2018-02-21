@@ -1,0 +1,32 @@
+body {width:650 px; 
+      border: 1px; 
+      border-color: black; 
+     border-style: solid;  
+     padding: 0 5px 0px; 
+      margin:auto }
+
+h1, h2 {font: Georgia; text-transform: uppercase;  
+      color:black }
+
+h1 { font-size: 24px; letter-spacing: 1.6em;
+   word-spacing: 2em; text-align:center;  
+    background: lightgray}
+
+h2 { font-size: 18px;  
+    letter-spacing: 1.4em; 
+    text-align: left;  
+     margin: 40px 0 0;
+     color:"dark red"}
+
+h2.personal data {padding: 45px 0 0}
+
+p{ margin: 0}
+
+p.info { margin-bottom: 20px}
+
+#profxp { margin-bottom: 20px}
+
+.time period { width: 120px; float: left;  
+             font-weight:bold; align: left}
+
+.period-info { width: 420px; align: right}
